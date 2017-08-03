@@ -4,3 +4,6 @@
 [submodule "sticky-parent-api8"]
 	path = sticky-parent-api8
 	url = git@github.com:StickySource/sticky-parent-api8.git
+[submodule "sticky-parent-tile"]
+	path = sticky-parent-tile
+	url = git@github.com:StickySource/sticky-parent-tile.git
