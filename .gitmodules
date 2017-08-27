@@ -7,3 +7,6 @@
 [submodule "sticky-parent-tile"]
 	path = sticky-parent-tile
 	url = git@github.com:StickySource/sticky-parent-tile.git
+[submodule "sticky-parent-parent"]
+	path = sticky-parent-parent
+	url = git@github.com:StickySource/sticky-parent-parent.git
